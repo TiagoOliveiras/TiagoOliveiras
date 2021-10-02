@@ -5,7 +5,7 @@ Olá eu sou Tiago Oliveira 👋
 
 [![Distintivo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TiagoOliveiras)
 [![Distintivo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-santos-843405222/)
-[![Distintivo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Tiago_oliveira#2058)
+[![Distintivo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/Tiago_oliveira#2058)
 [![Distintivo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Tiagooliveiras73@gmail.com)
 [![Distintivo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/WELMILBJGXKII1)
 
