@@ -30,4 +30,4 @@ Sou formado em **Gestão de Tecnologia da Informação** e também atuo como **p
 
 ## 🌐 Contato  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TiagoOliveira-blue?logo=linkedin)](https://www.linkedin.com/)  
-[![Gmail](https://img.shields.io/badge/Gmail-tiago@email.com-red?logo=gmail)](mailto:tiago@email.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-tiagooliveiras73@gmail.com-red?logo=gmail)](mailto:tiagooliveiras73@gmail.com)  
