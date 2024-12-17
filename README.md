@@ -1,35 +1,33 @@
- # Tiago Oliveira <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Tiago Oliveira 🚀
 
+👋 **Olá, mundo!** 🌍  
+Sou formado em **Gestão de Tecnologia da Informação** e também atuo como **piloto de drone** e **videomaker freelancer**. Minha paixão é unir a **tecnologia** e a **criatividade** para gerar soluções visuais impactantes.
 
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
--->
+---
 
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+## 🚀 Sobre Mim  
+- 🎓 **Formado em Gestão de TI**  
+- 🎥 **Videomaker Freelancer**: Produção de vídeos para **casamentos**, **setor automotivo** e **comércios**.  
+- 🚜 **Piloto de Drone Agrícola**: Captação aérea para mapeamento e inspeções.  
+- 💻 Experiência com audiovisual, tecnologia e produção de conteúdo.
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+---
 
-<p>
-<em>
-   I'm studying Technology Management at Estácio de Sá University I'm also healing software factory 👨‍💻
-     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  
-  I currently work as a coordinator in the data area.
-    
-  </em>  
-</p>
+## 🎯 Habilidades  
+- **Pilotagem de Drones**: DJI e outros modelos  
+- **Edição de Vídeo**: Adobe Premiere, DaVinci Resolve  
+- **Captação Aérea e Terrestre**  
+- **Gestão de Projetos e Tecnologia**  
 
+---
 
-[![Distintivo](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TiagoOliveiras)
-[![Distintivo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-oliveira-843405222/)
-[![Distintivo](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/Tiago_oliveira#2058)
-[![Distintivo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Tiagooliveiras73@gmail.com)
-[![Distintivo](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/WELMILBJGXKII1)
+## 📈 Experiência Profissional  
+- 🎥 **Freelancer Autônomo**: Atendendo clientes em casamentos, comércios e setor automotivo.  
+- 🚜 **Piloto de Drone Agrícola**: Inspeções aéreas e filmagens profissionais.  
+- 🛠️ **Gestão de Tecnologia**: Projetos integrando inovação e eficiência.
 
+---
 
-
-
-<br>
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
-
-<br>
+## 🌐 Contato  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TiagoOliveira-blue?logo=linkedin)](https://www.linkedin.com/)  
+[![Gmail](https://img.shields.io/badge/Gmail-tiago@email.com-red?logo=gmail)](mailto:tiago@email.com)  
